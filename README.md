@@ -1,5 +1,9 @@
 # Hacker Squad — Warehouse Championship
 
+https://mochiyaki.github.io/app7/
+Demo link ☝️
+
+
 A voxel crowd-brawler that runs in the browser. Pick one of four fighters, walk into a warehouse turned tournament
 arena, knock out **1000 hackers** and the **four top hackers** who come out to stop you, and take the title.
 
