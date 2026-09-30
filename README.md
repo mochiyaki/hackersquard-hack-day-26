@@ -109,6 +109,4 @@ plays the championship start to finish with an autoplay bot in the Node sim and 
 
 ## Credits & license
 
-Built on the engine of [voxel-musou](https://github.com/mike007jd/voxel-musou) by BubuAi (MIT, see [LICENSE](LICENSE)),
-by way of the sheep-village and freedom-voxel reskins in this workspace; the Hacker Squad content is added on top
-under the same license. [three.js](https://threejs.org/) r186 — MIT. All characters are original and fictional.
+This project is under the license of MIT, see [LICENSE](LICENSE); built on the references of voxel-musou, sheep-village and freedom-voxel reskins; the Hacker Squad content is added on top under the same license. [three.js](https://threejs.org/) r186 — MIT. All characters are original and fictional.
